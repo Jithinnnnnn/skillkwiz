@@ -12,6 +12,13 @@ export const metadata: Metadata = {
   description:
     "SkillKwiz provides innovative skill assessment solutions for recruitment and employee development.",
   generator: "v0.dev",
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/SVG File- logo (1).svg", type: "image/svg+xml" },
+    ],
+    apple: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({

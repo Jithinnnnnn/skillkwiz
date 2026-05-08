@@ -29,7 +29,7 @@ export default function SiteHeader() {
               <span className="text-white text-xl font-bold whitespace-nowrap">Skill Kwiz</span>
               <div className="w-auto h-10 flex items-center justify-start">
                 <Image
-                  src="/images/logo.png"
+                  src="/favicon.svg"
                   alt="SkillKwiz Logo"
                   width={100}
                   height={30}
@@ -67,7 +67,7 @@ export default function SiteHeader() {
                 <span className="text-white text-2xl font-bold whitespace-nowrap">Skill Kwiz</span>
                 <div className="w-auto h-10 flex items-center justify-start">
                   <Image
-                    src="/images/logo.png"
+                    src="/favicon.svg"
                     alt="SkillKwiz Logo"
                     width={100}
                     height={30}
